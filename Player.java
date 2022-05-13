@@ -1,4 +1,4 @@
-public interface Player{
+public interface Player {
   public String getName();
   public double getCash();
   public double win(double cashWinnings, int score);

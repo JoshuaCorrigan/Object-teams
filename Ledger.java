@@ -1,5 +1,5 @@
-public class Ledger{
-  Ledger(){
+public class Ledger {
+  public Ledger() {
     
   }
 }
